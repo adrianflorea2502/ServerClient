@@ -1,0 +1,9 @@
+﻿  Server.cpp
+D:\Adi\Workshop_mp\Server\Server.cpp(64,2): warning C4091: 'typedef ': ignored on left of 'Message' when no variable is declared
+D:\Adi\Workshop_mp\Server\Server.cpp(108,67): warning C4244: 'return': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Adi\Workshop_mp\Server\Server.cpp(92): warning C4715: 'CleanUp': not all control paths return a value
+  Server.vcxproj -> D:\Adi\Workshop_mp\Server\x64\Debug\Server.exe
